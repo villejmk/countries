@@ -1,2 +1,3 @@
-# countries
-Tool for showcasing simple data of a chosen nation.
+On VSCode:
+
+Open terminal -> navigate to the folder -> 'npm start'
